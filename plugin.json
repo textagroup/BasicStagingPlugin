@@ -3,6 +3,7 @@
     "description": "Used for testing on the plugins on a development site",
     "version": "0.1.0",
     "theme": false,
+    "homepage": "https://github.com/textagroup/BasicStagingPlugin",
     "require": {
         "matomo": ">=5.4.0-alpha,<6.0.0-b1"
     },
@@ -10,20 +11,13 @@
         {
             "name": "Kirk",
             "email": "kirk@innocraft.com",
-            "homepage": ""
+            "homepage": "https://github.com/textagroup/BasicStagingPlugin"
         }
     ],
     "support": {
-        "email": "",
-        "issues": "",
-        "forum": "",
-        "irc": "",
-        "wiki": "",
-        "source": "",
-        "docs": "",
-        "rss": ""
+        "email": "kirk@innocraft.com",
+        "issues": "https://github.com/textagroup/BasicStagingPlugin/issues"
     },
-    "homepage": "",
     "license": "GPL v3+",
-    "keywords": []
+    "keywords": ["local", "development"]
 }
