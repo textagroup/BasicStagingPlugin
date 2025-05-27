@@ -1,5 +1,5 @@
 {
-    "name": "BasicStagingPlugin",
+    "name": "BasicStagingTest",
     "description": "Used for testing on the plugins on a development site",
     "version": "0.1.1",
     "theme": false,
