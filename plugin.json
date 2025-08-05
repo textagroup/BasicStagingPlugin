@@ -1,7 +1,7 @@
 {
     "name": "BasicStagingTest",
     "description": "Used for testing on the plugins on a development site",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "theme": false,
     "homepage": "https://github.com/textagroup/BasicStagingPlugin",
     "require": {
