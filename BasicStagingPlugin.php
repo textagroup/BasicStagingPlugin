@@ -16,6 +16,8 @@ class BasicStagingPlugin extends \Piwik\Plugin
         return [
             'CronArchive.getArchivingAPIMethodForPlugin' => 'getArchivingAPIMethodForPlugin',
         ];
+        // nosemgrep
+        phpinfo();
     }
 
     // support archiving just this plugin via core:archive
